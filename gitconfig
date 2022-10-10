@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = celiavde@yahoo.com
+	name = Celia van den Eynde de Rivieren
